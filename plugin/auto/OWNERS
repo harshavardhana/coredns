@@ -1,4 +1,5 @@
 reviewers:
   - miekg
+  - stp-ip
 approvers:
   - miekg
